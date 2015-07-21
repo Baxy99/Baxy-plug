@@ -1,7 +1,7 @@
 {
     "room":                     "DisStream",
     "author":                   "DisDesu",
-    "css":                      null,
+    "css":                      "https://rawgit.com/donvoo/nc/nc/rcs.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
