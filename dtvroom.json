@@ -32,7 +32,7 @@
         "host":                 null,
         "cohost":               null,
         "manager":              null,
-        "bouncer":              null,
+        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj":                  null,
         "subscriber":           null
     },
