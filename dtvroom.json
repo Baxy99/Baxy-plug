@@ -33,7 +33,7 @@
         "cohost":               null,
         "manager":              null,
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":                  null,
+        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber":           null
     },
     "autocomplete": [],
