@@ -32,8 +32,8 @@
         "host":                 "http://i.imgur.com/Yd2GSeE.png",
         "cohost":               null,
         "manager":              null,
-        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "bouncer":              null,
+        "rdj":                  null,
         "subscriber":           null
     },
  "autocomplete": [],
