@@ -31,7 +31,7 @@
         "ambassador":           null,
         "host":                 null,
         "cohost":               null,
-        "manager":              "http://i.imgur.com/nRhQSub.png",
+        "manager":              null,
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber":           null
