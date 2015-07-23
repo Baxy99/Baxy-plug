@@ -29,9 +29,9 @@
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
-        "host":                 null,
+        "host":                 "http://i.imgur.com/Yd2GSeE.png",
         "cohost":               null,
-        "manager":              "http://i.imgur.com/Yd2GSeE.png",
+        "manager":              null,
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber":           null
