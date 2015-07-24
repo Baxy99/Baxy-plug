@@ -1,0 +1,41 @@
+{
+    "author": "Sakai",
+    "colors": {
+        "background": "",
+        "chat": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "",
+            "cohost": "",
+            "residentdj": "",
+            "host": "",
+            "manager": ""
+        },
+        "footer": "",
+        "header": ""
+    },
+    "css": {
+        "import": [
+            "https://dl.dropboxusercontent.com/s/jwghf214996dl40/tnc.css"
+        ]
+    },
+    "images": {
+        "background": "https://giant.gfycat.com/RareJauntyKouprey.gif",
+        "booth": "",
+        "icons": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "",
+            "cohost": "",
+            "residentdj": "",
+            "host": "",
+            "manager": ""
+        },
+        "playback": ""
+    },
+    "rules": {
+        "allowAutojoin": "false",
+        "allowAutorespond": "true",
+        "allowAutowoot": "true"
+    }
+}
