@@ -1,0 +1,214 @@
+.icon-room{
+    background: url('http://i.imgur.com/ZtY8inY.png') !important;
+    background-size: 30px 30px !important;
+}
+i.torch, i.torch right{
+    display:none;
+}
+div#audience{
+    top: -10% !important;
+}
+.background{
+    display: none !important;
+}
+#user-rollover .available{
+    background: rgba(137,190,108,0.75);
+    background: -moz-linear-gradient(top, rgba(137,190,108,0.75) 0%, rgba(143,219,79,0) 69%, rgba(145,232,66,0) 99%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(137,190,108,0.75)), color-stop(69%, rgba(143,219,79,0)), color-stop(99%, rgba(145,232,66,0)));
+    background: -webkit-linear-gradient(top, rgba(137,190,108,0.75) 0%, rgba(143,219,79,0) 69%, rgba(145,232,66,0) 99%);
+    background: -o-linear-gradient(top, rgba(137,190,108,0.75) 0%, rgba(143,219,79,0) 69%, rgba(145,232,66,0) 99%);
+    background: -ms-linear-gradient(top, rgba(137,190,108,0.75) 0%, rgba(143,219,79,0) 69%, rgba(145,232,66,0) 99%);
+    background: linear-gradient(to bottom, rgba(137,190,108,0.75) 0%, rgba(143,219,79,0) 69%, rgba(145,232,66,0) 99%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#89be6c', endColorstr='#91e842', GradientType=0 );
+}
+#user-rollover .away{
+background: rgba(255,221,111,0.75);
+    background: -moz-linear-gradient(top, rgba(255,221,111,0.75) 0%, rgba(178,229,80,0) 69%, rgba(145,232,66,0) 99%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,221,111,0.75)), color-stop(69%, rgba(178,229,80,0)), color-stop(99%, rgba(145,232,66,0)));
+    background: -webkit-linear-gradient(top, rgba(255,221,111,0.75) 0%, rgba(178,229,80,0) 69%, rgba(145,232,66,0) 99%);
+    background: -o-linear-gradient(top, rgba(255,221,111,0.75) 0%, rgba(178,229,80,0) 69%, rgba(145,232,66,0) 99%);
+    background: -ms-linear-gradient(top, rgba(255,221,111,0.75) 0%, rgba(178,229,80,0) 69%, rgba(145,232,66,0) 99%);
+    background: linear-gradient(to bottom, rgba(255,221,111,0.75) 0%, rgba(178,229,80,0) 69%, rgba(145,232,66,0) 99%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffdd6f', endColorstr='#91e842', GradientType=0 );
+}
+#user-rollover .working{
+    background: rgba(240,79,48,0.75);
+    background: -moz-linear-gradient(top, rgba(240,79,48,0.75) 0%, rgba(174,186,61,0) 69%, rgba(145,232,66,0) 99%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(240,79,48,0.75)), color-stop(69%, rgba(174,186,61,0)), color-stop(99%, rgba(145,232,66,0)));
+    background: -webkit-linear-gradient(top, rgba(240,79,48,0.75) 0%, rgba(174,186,61,0) 69%, rgba(145,232,66,0) 99%);
+    background: -o-linear-gradient(top, rgba(240,79,48,0.75) 0%, rgba(174,186,61,0) 69%, rgba(145,232,66,0) 99%);
+    background: -ms-linear-gradient(top, rgba(240,79,48,0.75) 0%, rgba(174,186,61,0) 69%, rgba(145,232,66,0) 99%);
+    background: linear-gradient(to bottom, rgba(240,79,48,0.75) 0%, rgba(174,186,61,0) 69%, rgba(145,232,66,0) 99%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f04f30', endColorstr='#91e842', GradientType=0 );
+}
+#user-rollover .gaming{
+    background: rgba(172,118,255,0.75);
+    background: -moz-linear-gradient(top, rgba(172,118,255,0.75) 0%, rgba(153,197,123,0) 69%, rgba(145,232,66,0) 99%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(172,118,255,0.75)), color-stop(69%, rgba(153,197,123,0)), color-stop(99%, rgba(145,232,66,0)));
+    background: -webkit-linear-gradient(top, rgba(172,118,255,0.75) 0%, rgba(153,197,123,0) 69%, rgba(145,232,66,0) 99%);
+    background: -o-linear-gradient(top, rgba(172,118,255,0.75) 0%, rgba(153,197,123,0) 69%, rgba(145,232,66,0) 99%);
+    background: -ms-linear-gradient(top, rgba(172,118,255,0.75) 0%, rgba(153,197,123,0) 69%, rgba(145,232,66,0) 99%);
+    background: linear-gradient(to bottom, rgba(172,118,255,0.75) 0%, rgba(153,197,123,0) 69%, rgba(145,232,66,0) 99%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ac76ff', endColorstr='#91e842', GradientType=0 );
+}
+
+/*Chat Customizations*/
+/*Lizzie Customizations*/
+div[data-cid^="5107634-"]{
+    background: rgba(77,13,87,1);
+    background: -moz-linear-gradient(left, rgba(77,13,87,1) 0%, rgba(17,3,19,0) 78%, rgba(0,0,0,0) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(77,13,87,1)), color-stop(78%, rgba(17,3,19,0)), color-stop(100%, rgba(0,0,0,0)));
+    background: -webkit-linear-gradient(left, rgba(77,13,87,1) 0%, rgba(17,3,19,0) 78%, rgba(0,0,0,0) 100%);
+    background: -o-linear-gradient(left, rgba(77,13,87,1) 0%, rgba(17,3,19,0) 78%, rgba(0,0,0,0) 100%);
+    background: -ms-linear-gradient(left, rgba(77,13,87,1) 0%, rgba(17,3,19,0) 78%, rgba(0,0,0,0) 100%);
+    background: linear-gradient(to right, rgba(77,13,87,1) 0%, rgba(17,3,19,0) 78%, rgba(0,0,0,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4d0d57', endColorstr='#000000', GradientType=1 );
+    border-left: 3px solid rgb(174, 69, 189) !important;
+}
+div[data-cid^="5107634-"] .badge-box .bdg{
+    background: url('http://i.imgur.com/R8tf6Cy.png') !important;
+    background-size: 30px 30px !important;
+}
+/*div[data-cid^="5107634-"] .emote .text{
+    color: gold !important;
+}*/
+/*div[data-cid^="5107634-"] .text{
+    color: #aa74ff;
+}*/
+
+/*User of the day*/
+/*div[data-cid^="3871877-"] .text{
+    color: gold;
+}
+div[data-cid^="3871877-"] .clickable::after{
+    content: " (UotM)";
+}
+*/
+/*Custom Badges*/
+
+/*Sakailicious*/
+/*http://i.imgur.com/Ud73q8D.png*/
+div[data-cid^="5050682-"] .badge-box .bdg{
+    background: url('http://i.imgur.com/WYvqGnt.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-5050682 #footer-user .buttons .button .bdg{
+    background: url('http://i.imgur.com/WYvqGnt.png') !important;
+    background-size: 30px 30px !important;
+}
+/*Cloudstrike*/
+div[data-cid^="4923460-"] .badge-box .bdg{
+    background: url('http://i.imgur.com/R8tf6Cy.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-4923460 #footer-user .buttons .button .bdg{
+    background: url('http://i.imgur.com/R8tf6Cy.png') !important;
+    background-size: 30px 30px !important;
+}
+
+/*OokamiHolo*/
+/*div[data-cid^="4769627-"] .badge-box .bdg{
+    background: url('http://shares.caffein8.com/1335883263683-MlLkIHA.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-4769627 #footer-user .buttons .button .bdg{
+    background: url('http://shares.caffein8.com/1335883263683-MlLkIHA.png') !important;
+    background-size: 30px 30px !important;
+}*/
+
+/*Zoeii*/
+/*div[data-cid^="5077235-"] .badge-box .bdg{
+    background: url('http://shares.caffein8.com/zoeii-2-JSjZ7jP.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-5077235 #footer-user .buttons .button .bdg{
+
+    background: url('http://shares.caffein8.com/zoeii-2-JSjZ7jP.png') !important;
+    background-size: 30px 30px !important;
+}*/
+
+
+/*Nanzan*/
+div[data-cid^="5270087-"] .badge-box .bdg, div[data-cid^="5688519-"] .badge-box .bdg{
+    background: url('http://i.imgur.com/cMJBsGH.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-5270087 #footer-user .buttons .button .bdg{
+    background: url('http://i.imgur.com/cMJBsGH.png') !important;
+    background-size: 30px 30px !important;
+}
+
+/*div[data-cid^="5270087-"]{
+    background: rgba(51,102,255,0.5);
+    background: -moz-linear-gradient(left, rgba(51,102,255,0.5) 0%, rgba(16,33,82,0) 68%, rgba(0,0,0,0) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(51,102,255,0.5)), color-stop(68%, rgba(16,33,82,0)), color-stop(100%, rgba(0,0,0,0)));
+    background: -webkit-linear-gradient(left, rgba(51,102,255,0.5) 0%, rgba(16,33,82,0) 68%, rgba(0,0,0,0) 100%);
+    background: -o-linear-gradient(left, rgba(51,102,255,0.5) 0%, rgba(16,33,82,0) 68%, rgba(0,0,0,0) 100%);
+    background: -ms-linear-gradient(left, rgba(51,102,255,0.5) 0%, rgba(16,33,82,0) 68%, rgba(0,0,0,0) 100%);
+    background: linear-gradient(to right, rgba(51,102,255,0.5) 0%, rgba(16,33,82,0) 68%, rgba(0,0,0,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3366ff', endColorstr='#000000', GradientType=1 );
+}*/
+
+/*Houdhakker2*/
+div[data-cid^="5113863-"] .badge-box .bdg{
+    background: url('http://i.imgur.com/AH0VwiF.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-5113863 #footer-user .buttons .button .bdg{
+    background: url('http://i.imgur.com/AH0VwiF.png') !important;
+    background-size: 30px 30px !important;
+}
+
+/*iLovePantsu*/
+div[data-cid^="5045226-"] .badge-box .bdg{
+    background: url('http://i.imgur.com/MA7USIW.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-5045226 #footer-user .buttons .button .bdg{
+    background: url('http://i.imgur.com/MA7USIW.png') !important;
+    background-size: 30px 30px !important;
+}
+
+/*HyperNightcore*/
+div[data-cid^="5325416-"] .badge-box .bdg{
+    background: url('http://i.imgur.com/LFVYJio.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-5325416 #footer-user .buttons .button .bdg{
+    background: url('http://i.imgur.com/LFVYJio.png') !important;
+    background-size: 30px 30px !important;
+}
+
+/*Rabbyz*/
+div[data-cid^="6205475-"] .badge-box .bdg{
+    background: url('http://i.imgur.com/zSzhcrj.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-6205475 #footer-user .buttons .button .bdg{
+    background: url('http://i.imgur.com/zSzhcrj.png') !important;
+    background-size: 30px 30px !important;
+}
+
+/*TheFluffyTeddy*/
+div[data-cid^="5833032-"] .badge-box .bdg{
+    background: url('http://i.imgur.com/89sskHh.png') !important;
+    background-size: 30px 30px !important;
+}
+.id-5833032 #footer-user .buttons .button .bdg{
+    background: url('http://i.imgur.com/89sskHh.png') !important;
+    background-size: 30px 30px !important;
+}
+
+/*Golden Mic*/
+div[data-cid^="5427299-"] .badge-box .bdg,
+div[data-cid^="4916909-"] .badge-box .bdg,
+div[data-cid^="4537120-"] .badge-box .bdg,
+div[data-cid^="5032544-"] .badge-box .bdg,
+div[data-cid^="5012291-"] .badge-box .bdg,
+div[data-cid^="5635924-"] .badge-box .bdg,
+div[data-cid^="5270472-"] .badge-box .bdg,
+div[data-cid^="3871877-"] .badge-box .bdg
+{
+    background: url('http://i.imgur.com/Qwtejuw.png') !important;
+    background-size: 30px 30px !important;
+}
