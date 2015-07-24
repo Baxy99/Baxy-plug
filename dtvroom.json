@@ -19,7 +19,7 @@
         "cohost":               "#e74c3c",
         "manager":              "#00FFFF",
         "bouncer":              "#3498db",
-        "rdj":                  "#9b59b6",
+        "rdj":                  null,
         "subscriber":           null,
         "friend":               null,
         "user":                 null
