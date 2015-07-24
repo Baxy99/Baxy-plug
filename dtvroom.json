@@ -1,7 +1,7 @@
 {
     "room":                     "DisStream",
     "author":                   "DisDesu",
-    "css":                      "https://raw.githubusercontent.com/klawisz1313/plug/master/test1.css",
+    "css":                      "https://rawgit.com/klawisz1313/plug/master/rcs.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
