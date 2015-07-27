@@ -37,8 +37,8 @@
         "subscriber":           null
     },
  "autocomplete": {
-        "rules":                "rules",
-        "pomoc":                "help"
+        "!rules":                "rules",
+        "!pomoc":                "help"
  },
     "emotes": {
         "dtv":            "http://i.imgur.com/eOIXZJ8.png"
