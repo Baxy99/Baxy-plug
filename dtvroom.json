@@ -37,11 +37,6 @@
         "subscriber":           null
     },
  "autocomplete": {
-        "rules":                "!rules",
-        "pomoc":                "!help",
-        "lewabez1":             "lewabez1",
-        "!lewaz1":              "lewaz1",
-        "prawaz1":              "!prawaz1",
         "jednostronnabez1",
         "!jednostronnaz1"
  },
