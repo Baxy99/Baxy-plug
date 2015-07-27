@@ -36,10 +36,10 @@
         "rdj":                  null,
         "subscriber":           null
     },
- "autocomplete": {
+ "autocomplete": [
         "jednostronnabez1",
         "!jednostronnaz1"
- },
+ ],
     "emotes": {
         "dtv":            "http://i.imgur.com/eOIXZJ8.png"
     }
