@@ -36,7 +36,10 @@
         "rdj":                  null,
         "subscriber":           null
     },
- "autocomplete": [],
+ "autocomplete": {
+        "rules":                "rules";
+        "pomoc":                "help";
+ },
     "emotes": {
         "dtv":            "http://i.imgur.com/eOIXZJ8.png"
     }
