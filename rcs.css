@@ -6,6 +6,15 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+/* KamilSlimak12 */
+.id-9092608 > .badge-box > i.bdg {
+    background-image: url("http://images.mmorpg.com/images/avatars/small/1375793_anime_face_fav451.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* To co nie wiem czym jest bo zajebalem od najtkorów  */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
