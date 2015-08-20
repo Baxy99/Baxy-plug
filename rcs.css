@@ -29,6 +29,13 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+/* Dawid4045  */
+.id-8502399 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/rB3nhQM.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
 /* To co jest tu od poczatku  */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
