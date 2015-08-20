@@ -36,6 +36,10 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+/* DTVbot */
+.id-7049112 > .msg > .from > i.icon-chat-co-host {
+    background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
+}
 /* To co jest tu od poczatku  */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
