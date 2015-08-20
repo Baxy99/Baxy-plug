@@ -8,12 +8,25 @@
 }
 /* KamilSlimak12 */
 .id-9092608 > .badge-box > i.bdg {
-    background-image: url("http://images.mmorpg.com/images/avatars/small/1375793_anime_face_fav451.jpg");
+    background-image: url("http://i.imgur.com/pUYGygq.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
-
+/* Smiec Vediin  */
+.id-6363311 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/FtZxCVG.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Kruk (czemu ja to daje wszystkim?)  */
+.id-10628345 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/lTzSgxa.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
 /* To co nie wiem czym jest bo zajebalem od najtkorów  */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
