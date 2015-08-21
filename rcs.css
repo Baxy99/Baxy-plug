@@ -53,6 +53,11 @@
 /* DTVbot */
 .id-7049112 > .msg > .from > i.icon-chat-host {
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
+    
+}
+/* DTVbot lista użytkowników */
+.id-7049112 > .list.room > .user > .i.icon-chat-host {
+    background: url("http://i.imgur.com/xEQvJUh.png") !important;
 }
 /* To co jest tu od poczatku  */
 #user-lists .list.staff .group {
