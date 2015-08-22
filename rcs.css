@@ -57,7 +57,9 @@
 #user-lists .list.room .user.id-7049112 .icon-chat-host {
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
 }
-
+#waitlist .list .user.id-7049112 .name .icon-chat-host {
+    background: url("http://i.imgur.com/Jy46QPx.png") no-repeat !important;
+}
 /* To co jest tu od poczatku  */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
