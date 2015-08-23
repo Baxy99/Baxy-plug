@@ -76,7 +76,8 @@
 /* CYCKI DTV (sprawdzam to)*/
 .id-10607990 > .msg > .from:before
 {
-    margin-right: 4px;
+    float: left;
+    margin: 1px 1px 0 0;
     content: url("http://i.imgur.com/Olp2KAm.png") !important;
 } 
 /* DTVbot */
