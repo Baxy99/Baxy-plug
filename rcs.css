@@ -64,6 +64,12 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+/* MINIATURKA OBOK NICKU?
+.id-USERID > .msg > .from:before
+{
+    content: url("OBRAZEK") !important;
+} */
 /* DTVbot */
 .id-7049112 > .msg > .from > i.icon-chat-host {
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
