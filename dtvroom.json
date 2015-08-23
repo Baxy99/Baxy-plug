@@ -37,8 +37,11 @@
         "subscriber":           null
     },
  "autocomplete": [
-     "jednostronnabez1",
-     "!jednostronnaz1"
+         "rules":                "!rules",
+-        "pomoc":                "!help",
+-        "lewabez1":             "lewabez1",
+-        "!lewaz1":              "lewaz1",
+-        "prawaz1":              "!prawaz1",
  ],
     "emotes": {
         "banned":               "http://i.imgur.com/EOuLASw.gif",
