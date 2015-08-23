@@ -65,6 +65,11 @@
     background-position: center center;
 }
 
+.id-5390290 > .msg > .from:before {
+    margin-right: 4px;
+    content: url("http://puu.sh/jLKQx/bcbca1e608.png");
+}
+
 /* MINIATURKA OBOK NICKU (sprawdzam to)*/
 .id-10607990 > .msg > .from:before
 {
