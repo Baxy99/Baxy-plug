@@ -65,11 +65,13 @@
     background-position: center center;
 }
 
-/* MINIATURKA OBOK NICKU (sprawdzam to) TRZEBA DAC: 1px w lewo i 1 albo 2 px w dol 
+/* MINIATURKA OBOK NICKU (sprawdzam to) TRZEBA DAC: 1px w lewo i 1 albo 2 px w dol */
 .id-10607990 > .msg > .from:before
 {
+    margin-top: 1px;
+    margin-right: 1px;
     content: url("http://i.imgur.com/SqLUJRl.png") !important;
-} */
+} 
 /* DTVbot */
 .id-7049112 > .msg > .from > i.icon-chat-host {
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
