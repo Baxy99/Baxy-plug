@@ -74,6 +74,27 @@
 #waitlist .list .user.id-7049112 .name .icon-chat-host {
     background: url("http://i.imgur.com/Jy46QPx.png") no-repeat !important;
 }
+/* WGM ikony */
+#woot i.icon {
+    background-image: url("http://i.imgur.com/u5iwPJD.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#grab i.icon {
+    background-image: url("http://i.imgur.com/hrUd7ho.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#meh i.icon {
+    background-image: url("http://i.imgur.com/4wKIcKK.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
 /* To co jest tu od poczatku  */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
