@@ -68,7 +68,7 @@
 /* MINIATURKA OBOK NICKU (sprawdzam to)*/
 .id-10607990 > .msg > .from:before
 {
-    margin-top: 18px;
+    padding-top: 4px;
     margin-right: 4px;
     content: url("http://i.imgur.com/SqLUJRl.png") !important;
 } 
