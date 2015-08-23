@@ -65,10 +65,10 @@
     background-position: center center;
 }
 
-/* MINIATURKA OBOK NICKU */
+/* MINIATURKA OBOK NICKU (sprawdzam to) */
 .id-10607990 > .msg > .from:before
 {
-    content: url("http://i.imgur.com/xdBV63C.png") !important;
+    content: url("http://i.imgur.com/SqLUJRl.png") !important;
 } 
 /* DTVbot */
 .id-7049112 > .msg > .from > i.icon-chat-host {
