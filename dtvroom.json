@@ -36,13 +36,7 @@
         "rdj":                  null,
         "subscriber":           null
     },
- "autocomplete": [
-         "rules":                "!rules",
--        "pomoc":                "!help",
--        "lewabez1":             "lewabez1",
--        "!lewaz1":              "lewaz1",
--        "prawaz1":              "!prawaz1",
- ],
+    "autocomplete": [],
     "emotes": {
         "banned":               "http://i.imgur.com/EOuLASw.gif",
         "nokappa":              "http://i.imgur.com/S3DfdMO.png",
