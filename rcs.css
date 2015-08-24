@@ -131,6 +131,13 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+/*logo*/
+#room-bar * {
+    font-size: 0px;
+}
+#room-name {
+    background: url("http://i.imgur.com/vRhFfzL.png") no-repeat top left content-box;
+}
 /* To co jest tu od poczatku  */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
