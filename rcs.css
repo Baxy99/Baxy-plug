@@ -136,7 +136,9 @@
     font-size: 0px;
 }
 #room-name {
-    background: url("http://i.imgur.com/vRhFfzL.png") no-repeat top left content-box;
+    top: 6px;
+    background: url("http://i.imgur.com/pHLzvsl.png") no-repeat top left content-box;
+    height: 42px;
 }
 /* To co jest tu od poczatku  */
 #user-lists .list.staff .group {
