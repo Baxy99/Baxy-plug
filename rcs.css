@@ -98,10 +98,10 @@
 .id-7049112 > .msg > .from > i.icon-chat-host {
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
 }
-#user-lists .list.room .user.id-7049112 .icon-chat-host {
+#user-lists .list.room .user.id-7049112 .icon-chat-cohost {
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
 }
-#waitlist .list .user.id-7049112 .name .icon-chat-host {
+#waitlist .list .user.id-7049112 .name .icon-chat-cohost {
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
 }
 .id-7049112 > .badge-box > i.bdg {
