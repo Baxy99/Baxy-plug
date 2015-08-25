@@ -137,7 +137,8 @@
 }
 #room-name {
     top: 6px;
-    margin-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
     background: url("http://i.imgur.com/oEwUwv1.png") no-repeat top left content-box;
     height: 42px;
 }
