@@ -352,3 +352,6 @@ background: #c42e3b;
 #room-bar .icon-room{
     background: url("http://i.imgur.com/eOIXZJ8.png") no-repeat;
 }
+#volume .slider{
+  display: block !Important;
+}
