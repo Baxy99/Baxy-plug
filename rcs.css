@@ -352,7 +352,7 @@ background: #c42e3b;
 }
 
 #room-bar .icon-room{
-    background: url("http://i.imgur.com/eOIXZJ8.png") no-repeat;
+    display: none;
 }
 #volume .slider{
   display: block !Important;
