@@ -86,6 +86,13 @@
     background-position: center center;
 }
 
+/*Hasztagg*/
+.id-6598771 > .msg > .from:before 
+{
+    content: url("http://i.imgur.com/bZ37wsM.png") !important;; 
+    float: left;
+    margin: 1px 1px 0px 0px;
+
 /* CYCKI DTV (sprawdzam to)*/
 .id-10607990 > .msg > .from:before,
 .id-6315115 > .msg > .from:before
