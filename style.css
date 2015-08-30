@@ -375,9 +375,9 @@ background: #c42e3b;
 }
 #room-settings .general-settings .value{
    font-family: 'Roboto', sans-serif; 
+   font-size: 17px;
 }
 #vote .crowd-response .top .label { 
 	font-family: 'Patrick Hand', cursive;
-	font-size: 18px;
 }
 
