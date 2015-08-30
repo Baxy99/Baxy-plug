@@ -373,10 +373,6 @@ background: #c42e3b;
 #volume .slider{
   display: block !Important;
 }
-#room-settings .general-settings .value{
-   font-family: 'Roboto', sans-serif; 
-   font-size: 17px;
-}
 #vote .crowd-response .top .label { 
 	font-family: 'Patrick Hand', cursive;
 	font-size: 18px;
@@ -389,6 +385,3 @@ background: #c42e3b;
     font-size: 16px;
 }
 
-#chat-messages {
-	font-size: 13px;
-}
