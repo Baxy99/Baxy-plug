@@ -6,6 +6,18 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+.id-10764385 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/iAOjhY7.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.id-10764385 > .msg > .from:before 
+{
+    content: url("http://i.imgur.com/Ev9MdsC.png") !important;
+    float: left;
+    margin: 1px 1px 0px 0px;
+}
 /* DisDesu */
 .id-5357043 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/0coVH6J.png");
