@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Patrick+Hand|Roboto&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand&subset=latin,latin-ext);
 /* Król Udyr (nie znam wlasnego nicku) */
 .id-6425281 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/wntiZnT.png");
@@ -382,6 +382,6 @@ background: #c42e3b;
 #meh-rs {
     font-family: 'Patrick Hand', cursive !important;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 17px;
 }
 
