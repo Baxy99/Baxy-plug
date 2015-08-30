@@ -7,12 +7,13 @@
     background-position: center center;
 }
 .id-10764385 > .badge-box > i.bdg {
-    background-image: url("http://i.imgur.com/iAOjhY7.png");
+    background-image: url("http://i.imgur.com/kFZWdf8.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
-.id-10764385 > .msg > .from:before 
+.id-10764385 > .msg > .from:before,
+.id-6425281 > .msg > .from:before 
 {
     content: url("http://i.imgur.com/Ev9MdsC.png") !important;
     float: left;
