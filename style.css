@@ -381,20 +381,14 @@ background: #c42e3b;
 	font-family: 'Patrick Hand', cursive;
 	font-size: 18px;
 }
-#woot-rs {
-    font-family: 'Patrick Hand', cursive !important;
-    font-weight: 400;
-}
-
-#grab-rs {
-    font-family: 'Patrick Hand', cursive !important;
-    font-weight: 400;
-}
-
+#woot-rs,
+#grab-rs,
 #meh-rs {
     font-family: 'Patrick Hand', cursive !important;
     font-weight: 400;
+    font-size: 16px;
 }
+
 #chat-messages {
 	font-size: 13px;
 }
