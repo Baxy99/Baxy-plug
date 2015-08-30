@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand|Roboto&subset=latin,latin-ext);
 /* Król Udyr (nie znam wlasnego nicku) */
 .id-6425281 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/wntiZnT.png");
@@ -144,22 +144,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-}
-
-/*WGM CZCIONKA*/
-#woot-rs {
-    font-family: 'Indie Flower', cursive !important;
-    font-weight: 400;
-}
-
-#grab-rs {
-    font-family: 'Indie Flower', cursive !important;
-    font-weight: 400;
-}
-
-#meh-rs {
-    font-family: 'Indie Flower', cursive !important;
-    font-weight: 400;
 }
 /*logo */
 #room-bar * {
@@ -384,6 +368,15 @@ background: #c42e3b;
 #room-bar .icon-room{
     display: none;
 }
+
+/*Inne zmiany wygladu czcionek i ogolnie kurwa WINCYJ CSS-a*/
 #volume .slider{
   display: block !Important;
 }
+#room-settings .general-settings .value{
+   font-family: 'Roboto', sans-serif; 
+}
+#vote .crowd-response .top .label { 
+	font-family: 'Patrick Hand', cursive;
+}
+
