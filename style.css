@@ -1,6 +1,4 @@
-/* Dueperele ikonki plakietki ch*j wie co jeszcze XD, dostaja tylko Ci najbardziej aktywni+moderacja i Ci których lubie */
-
-
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 /* Król Udyr (nie znam wlasnego nicku) */
 .id-6425281 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/wntiZnT.png");
@@ -146,6 +144,22 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+}
+
+/*WGM CZCIONKA*/
+#woot-rs {
+    font-family: 'Indie Flower', cursive !important;
+    font-weight: 400;
+}
+
+#grab-rs {
+    font-family: 'Indie Flower', cursive !important;
+    font-weight: 400;
+}
+
+#meh-rs {
+    font-family: 'Indie Flower', cursive !important;
+    font-weight: 400;
 }
 /*logo */
 #room-bar * {
