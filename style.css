@@ -398,3 +398,20 @@ background: #c42e3b;
     font-weight: 400;
     font-size: 17px;
 }
+
+#history-button .icon
+{
+        -moz-transition:        transform 1s ease-in-out;
+        -webkit-transition:     transform 1s ease-in-out;
+        -o-transition:          transform 1s ease-in-out;
+        transition:             transform 1s ease-in-out;
+}
+
+#history-button .icon:hover
+{
+        -moz-transform:         rotate(360deg) !important; 
+        -webkit-transform:      rotate(360deg) !important;
+        -o-transform            rotate(360deg) !important;
+        transform:              rotate(360deg) !important;
+}
+
