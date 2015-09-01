@@ -12,15 +12,7 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
-/*serce obok nicku*/
-.id-10764385 > .msg > .from:before,
-.id-10607990 > .msg > .from:before,
-.id-6425281 > .msg > .from:before 
-{
-    content: url("http://i.imgur.com/Ev9MdsC.png") !important;
-    float: left;
-    margin: 1px 3px 0px 0px;
-}
+
 /* DisDesu */
 .id-5357043 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/0coVH6J.png");
@@ -116,13 +108,23 @@
 }
 
 /* CYCKI DTV (sprawdzam to)*/
-.id-10607990 > .msg > .from:before,
 .id-6315115 > .msg > .from:before
 {
     float: left;
     margin: 1px 1px 0 0;
     content: url("http://i.imgur.com/8C0aKQH.png") !important;
 } 
+
+/*serce obok nicku*/
+.id-10764385 > .msg > .from:before,
+.id-10607990 > .msg > .from:before,
+.id-6425281 > .msg > .from:before 
+{
+    content: url("http://i.imgur.com/Ev9MdsC.png") !important;
+    float: left;
+    margin: 1px 3px 0px 0px;
+}
+
 /* DTVbot */
 .id-7049112 > .msg > .from > i.icon-chat-host {
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
