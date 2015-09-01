@@ -399,7 +399,8 @@ background: #c42e3b;
     font-size: 17px;
 }
 
-#history-button .icon
+#history-button .icon,
+#footer-user .buttons .button.settings .icon
 {
         -moz-transition:        transform 1s ease-in-out;
         -webkit-transition:     transform 1s ease-in-out;
@@ -407,7 +408,8 @@ background: #c42e3b;
         transition:             transform 1s ease-in-out;
 }
 
-#history-button .icon:hover
+#history-button .icon:hover,
+#footer-user .buttons .button.settings .icon:hover
 {
         -moz-transform:         rotate(360deg) !important; 
         -webkit-transform:      rotate(360deg) !important;
