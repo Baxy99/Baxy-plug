@@ -420,3 +420,22 @@ background: #c42e3b;
         -o-transform            rotate(360deg) !important;
         transform:              rotate(360deg) !important;
 }
+
+.loading-box .connecting{
+  display: none !Important;
+}
+
+.loading-box .logo{
+  background-image: url(http://i.imgur.com/kbbYv9u.png) !important;
+  background-size: 640px 362px !Important;
+  height: 362px !Important;
+}
+
+.loading-box .content{
+  top: -12px !important;
+  height: 413px !Important;
+}
+
+.loading-box .spinner{
+  margin-top: 23px !Important;
+}
