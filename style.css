@@ -12,7 +12,9 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+/*serce obok nicku*/
 .id-10764385 > .msg > .from:before,
+.id-10607990 > .msg > .from:before,
 .id-6425281 > .msg > .from:before 
 {
     content: url("http://i.imgur.com/Ev9MdsC.png") !important;
