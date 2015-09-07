@@ -36,7 +36,11 @@
             "rdj": null,
             "subscriber": null
     },
-        "autocomplete": [],
+
+        "autocomplete": [{
+        "preset": "basicbot"
+    }],
+
         "emotes": {
         "banned": "http://i.imgur.com/EOuLASw.gif",
             "nokappa": "http://i.imgur.com/S3DfdMO.png",
