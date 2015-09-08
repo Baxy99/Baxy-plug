@@ -36,14 +36,7 @@
             "rdj": null,
             "subscriber": null
     },
-        "autocomplete": [{ 
-        "preset": "basicbot"
-    },
-    {
- "string": "!nightmode",
- "icon": "icon-ban",
- "role": 2
-}],
+        "autocomplete": [],
 
         "emotes": {
         "banned": "http://i.imgur.com/EOuLASw.gif",
