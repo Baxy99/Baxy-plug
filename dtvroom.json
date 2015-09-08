@@ -36,7 +36,7 @@
             "rdj": null,
             "subscriber": null
     },
-
+// dziala tylko z extplug i advanced-autocomplete  http://bit.ly/1Fw581i
         "autocomplete": [{
         "preset": "basicbot"
     }],
