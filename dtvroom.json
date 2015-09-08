@@ -41,6 +41,7 @@
     },
     {
  "string": "!nightmode",
+ "icon": "icon-ban",
  "role": 2
 }],
 
