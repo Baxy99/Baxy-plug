@@ -343,12 +343,12 @@
     display: block !Important;
 }
 #vote .crowd-response .top .label {
-    font-family:'Patrick Hand', cursive;
+    font-family: 'Patrick Hand', cursive;
     font-size: 18px;
     margin-left: 4px;
 }
 #woot-rs, #grab-rs, #meh-rs {
-    font-family:'Patrick Hand', cursive !important;
+    font-family: 'Patrick Hand', cursive !important;
     font-weight: 400;
     font-size: 17px;
 }
