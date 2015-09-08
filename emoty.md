@@ -1,5 +1,6 @@
 # Emoty
 
+Dodane do customizacji rooma.
 Dostępne tylko dla posiadaczy RCS (http://rcs.radiant.dj)
 
 | Komenda          | Wygląd                         | 
