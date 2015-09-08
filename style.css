@@ -410,7 +410,7 @@ background: #c42e3b;
 {
         -moz-transform:         rotate(360deg) !important; 
         -webkit-transform:      rotate(360deg) !important;
-        -o-transform            rotate(360deg) !important;
+        -o-transform:           rotate(360deg) !important;
         transform:              rotate(360deg) !important;
 }
 
