@@ -38,7 +38,11 @@
     },
         "autocomplete": [{ 
         "preset": "basicbot"
-    }],
+    },
+    {
+ "string": "!nightmode",
+ "role": 2
+}],
 
         "emotes": {
         "banned": "http://i.imgur.com/EOuLASw.gif",
