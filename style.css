@@ -89,6 +89,9 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
+#user-rollover.id-7049112 .badge-box i {
+    background-image: url("http://i.imgur.com/o7fbmHg.png") !important;
+}
 /* WGM ikony */
  #woot i.icon {
     background-image: url("http://i.imgur.com/u5iwPJD.png");
