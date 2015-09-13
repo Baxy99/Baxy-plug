@@ -1,4 +1,4 @@
-  console.log("Nie wiem co to jest");
+  console.log("Po chuj makro");
   setInterval(function () {
       API.sendChat('!slot');
-  }, 302000);
+  }, 304000);
