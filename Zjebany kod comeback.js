@@ -3,7 +3,7 @@ API.chatLog("Zjebane autosloty z którymi jednak da sie wygrać  v1.0retarded. A
 API.sendChat('!slot');
 setInterval(function () {
     var dj = API.getDJ().id;
-    var pos = API.getWaitListPosition(user.id);
+    var pos = API.getWaitListPosition().id;
     if (dj === chat.uid || pos == 0) {
         return void(0);
     } else {
