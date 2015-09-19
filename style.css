@@ -370,9 +370,7 @@
 .message.role-manager,
 .emote.role-manager,
 .message.role-bouncer,
-.emote.role-bouncer,
-.message.role-cohost,
-.emote.role-cohost
+.emote.role-bouncer
 {
     border-left:  #AB77FF 2px dotted;
     border-right: #AB77FF 2px dotted;
@@ -381,9 +379,7 @@
 .message.role-manager:hover,
 .emote.role-manager:hover,
 .message.role-bouncer:hover,
-.emote.role-bouncer:hover,
-.message.role-cohost:hover,
-.emote.role-cohost:hover
+.emote.role-bouncer:hover
 {
     border-left-style:  solid;
     border-right-style: solid;
