@@ -397,3 +397,47 @@
     border-left-style:  solid;
     border-right-style: solid;
 }
+/*Ja i moj kompleks wyzszosci*/
+
+.id-6425281:hover span.un.clickable
+{
+    transform:  rotate3d(7, 20, 9, 360deg);
+    transition: all 3s cubic-bezier(0.31, 0, 0.11, 1);
+}
+
+.id-6425281 span.un.clickable
+{
+    transition: all 1s linear;
+}
+
+.id-6425281:hover > .msg > .from > i.icon-chat-manager
+{
+    transform:  rotateZ(180deg);
+    transition: all 1s linear;
+}
+
+.id-6425281 > .msg > .from > i.icon-chat-manager
+{
+    transition: all 1s linear;
+}
+
+.id-6425281:hover > .msg > .from > i.icon.icon-chat-subscriber
+{
+    transform:  rotateZ(180deg);
+    transition: all 1s linear;
+}
+
+.id-6425281 > .msg > .from > i.icon.icon-chat-subscriber
+{
+    transition: all 1s linear;
+}
+.id-6425281:hover > .msg > .from > i.icon.istranslator
+{
+    transform:  rotateZ(180deg);
+    transition: all 1s linear;
+}
+
+.id-6425281 > .msg > .from > i.icon.istranslator
+{
+    transition: all 1s linear;
+}
