@@ -17,3 +17,7 @@ Dostępne tylko dla posiadaczy RCS (http://rcs.radiant.dj)
 | :tenczowydis:    | ![alt tag](http://i.imgur.com/RbTfre9.jpg) |
 | :disZombie:      | ![alt tag](http://i.imgur.com/37qOJ4Y.png) |
 | :dtv:            | ![alt tag](http://i.imgur.com/eOIXZJ8.png) |
+| :dance4:         | ![alt tag](http://i.imgur.com/fI5Y4MQ.gif) |
+| :dance5:         | ![alt tag](http://i.imgur.com/tI0B9qQ.gif) |
+| :dance6:         | ![alt tag](http://i.imgur.com/DI7csEZ.gif) |
+| :pinkmousedance:      | ![alt tag](http://i.imgur.com/3yWY1UA.gif) |
