@@ -367,20 +367,6 @@
     margin-top: 23px !Important;
 }
 
-.message.role-rdj,
-.emote.role-rdj
-{
-    border-left:  #5DB4FF 2px dotted;
-    border-right: #5DB4FF 2px dotted;
-}
-
-.message.role-rdj:hover,
-.emote.role-rdj:hover
-{
-    border-left-style:  solid;
-    border-right-style: solid;
-}
-
 .message.role-manager,
 .emote.role-manager,
 .message.role-bouncer,
