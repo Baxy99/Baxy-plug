@@ -367,6 +367,10 @@
     margin-top: 23px !Important;
 }
 
+#room-host:hover {
+ cursor: help;
+}
+
 .message.role-manager,
 .emote.role-manager,
 .message.role-bouncer,
