@@ -413,39 +413,3 @@
 {
     transition: all 1s linear;
 }
-
-.id-6425281:hover > .msg > .from > i.icon-chat-manager
-{
-    transform:  rotateZ(180deg);
-    transition: all 1s linear;
-}
-
-.id-6425281 > .msg > .from > i.icon-chat-manager
-{
-    transition: all 1s linear;
-}
-
-.id-6425281:hover > .msg > .from > i.icon.icon-chat-subscriber
-{
-    transform:  rotateZ(180deg);
-    transition: all 1s linear;
-}
-
-.id-6425281 > .msg > .from > i.icon.icon-chat-subscriber
-{
-    transition: all 1s linear;
-}
-.id-6425281 > .msg > .from > i.icon.icon-chat-subscriber
-{
-	margin-right: 2px;
-}
-.id-6425281:hover > .msg > .from > i.icon.istranslator
-{
-    transform:  rotateZ(180deg);
-    transition: all 1s linear;
-}
-
-.id-6425281 > .msg > .from > i.icon.istranslator
-{
-    transition: all 1s linear;
-}
