@@ -1,5 +1,6 @@
 console.log("Wiem że to i tak slotuje jak pojebane i nie patrzy czy jestes djem lub czy jestes pierwszy. Wiem ze jest zjebane.");
 API.chatLog("Zjebane autosloty z którymi jednak da sie wygrać, ale slotuje jak pojebane");
+API.sendChat('/em "Zajebiste" makro na sloty' );
 API.sendChat('!slot');
 setInterval(function () {
     var dj = API.getDJ().id;
