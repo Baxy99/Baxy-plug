@@ -376,8 +376,8 @@
 .message.role-bouncer,
 .emote.role-bouncer
 {
-    border-left:  #9E6DEA 2px dotted;
-    border-right: #9E6DEA 2px dotted;
+    border-left:  #9E6DEA 3px dotted;
+    border-right: #9E6DEA 3px dotted;
 }
 
 .message.role-manager:hover,
@@ -391,8 +391,8 @@
 
 .message.role-host.emote.role-host
 {
-    border-left:  #2582da 2px dotted;
-    border-right: #2582da 2px dotted;
+    border-left:  #2582da 3px dotted;
+    border-right: #2582da 3px dotted;
 }
 
 .message.role-host:hover,
