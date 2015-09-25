@@ -213,8 +213,7 @@
     color: #ac76ff !important;
 }
 #chat .emote {
-    border-left: rgba(174, 69, 189, 1) 2px solid !important;
-    background-color: rgba(76, 93, 119, 0.22) !important;
+    background-color: rgba(255, 217, 0, 0.12) !important;
 }
 #chat-messages .emote .icon {
     /*left: 4px;*/
@@ -222,7 +221,7 @@
 #chat .emote .text {
     font-style: normal;
     font-weight: bold;
-    color: #ac76ff;
+    color: #FFD900;
 }
 #footer {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0, rgba(0, 0, 0, 0.75) 100%);
