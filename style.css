@@ -207,13 +207,13 @@
 #chat .mention {
     font-weight: 700;
     /*padding-left: 25px;*/
-    border-left: #7681FF 3px solid;
+    border-left: #7681FF 2px solid;
 }
 #chat .emote .from {
     color: #ac76ff !important;
 }
 #chat .emote {
-    border-left: rgba(174, 69, 189, 1) 3px solid !important;
+    border-left: rgba(174, 69, 189, 1) 2px solid !important;
     background-color: rgba(76, 93, 119, 0.22) !important;
 }
 #chat-messages .emote .icon {
@@ -376,8 +376,8 @@
 .message.role-bouncer,
 .emote.role-bouncer
 {
-    border-left:  #9E6DEA 3px dotted;
-    border-right: #9E6DEA 3px dotted;
+    border-left:  #9E6DEA 2px dotted;
+    border-right: #9E6DEA 2px dotted;
 }
 
 .message.role-manager:hover,
@@ -391,8 +391,8 @@
 
 .message.role-host.emote.role-host
 {
-    border-left:  #2582da 3px dotted;
-    border-right: #2582da 3px dotted;
+    border-left:  #2582da 2px dotted;
+    border-right: #2582da 2px dotted;
 }
 
 .message.role-host:hover,
@@ -400,16 +400,4 @@
 {
     border-left-style:  solid;
     border-right-style: solid;
-}
-/*Ja i moj kompleks wyzszosci*/
-
-.id-6425281:hover span.un.clickable
-{
-    transform:  rotate3d(7, 20, 9, 360deg);
-    transition: all 3s cubic-bezier(0.31, 0, 0.11, 1);
-}
-
-.id-6425281 span.un.clickable
-{
-    transition: all 1s linear;
 }
