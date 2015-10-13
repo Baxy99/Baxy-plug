@@ -5,6 +5,12 @@
     https://www.dubtrack.fm/kris
 */
 @import url(https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext);
+#chat .chat-container ul.chat-main li .activity-row .text {
+	font-family: 'Lato', sans-serif;
+}
+#chat .chat-container .pusher-chat-widget-input input {
+	font-family: 'Lato', sans-serif;
+}
 #main-loading {
     background: #AA74FE;
 }
