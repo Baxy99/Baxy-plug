@@ -9,6 +9,9 @@
 #header-global h1 {
 	display: none;
 }
+#player-controller ul li.infoContainer .currentSong {
+	font-family: 'Lato', sans-serif;
+}
 #chat .chat-container ul.chat-main li .activity-row .text {
 	font-family: 'Lato', sans-serif;
 }
@@ -141,7 +144,7 @@ a:hover, a:visited {
   display: block;
   height: 25.45em;
   position: relative;
-  background-image: url(http://i.imgur.com/ohtTp6L.png);
+  background-image: url(http://i.imgur.com/YtQwHxG.png);
   z-index: 11;
 }
 @media only screen and (min-width: 31.25em) {
