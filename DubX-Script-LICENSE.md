@@ -1,3 +1,5 @@
+ORIGINAL: https://github.com/sinfulBA/DubX-Script
+
 **THE Q PUBLIC LICENSE version 1.0**
 
 **Copyright (C) 1999-2005 Trolltech AS, Norway.**
