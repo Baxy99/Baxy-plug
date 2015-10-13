@@ -4,7 +4,7 @@
     Made by @Kris | Edited by sinful
     https://www.dubtrack.fm/kris
 */
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700italic&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,900&subset=latin,latin-ext);
 #chat .chat-container ul.chat-main li .activity-row .text {
 	font-family: 'Lato', sans-serif;
 }
@@ -204,9 +204,8 @@ button:hover {
 }
 #chat .chat-container ul.chat-main li.chat-welcome-message {
 	color: #AA74FE;
-	letter-spacing: 1px;
 	font-family: 'Lato', sans-serif;
-	font-weight: 700;
+	font-weight: 900;
 }
 #chat .chat-container .pusher-chat-widget-input button {
     color: #000;
