@@ -136,7 +136,7 @@ a:hover, a:visited {
 }
 #main_player .player_container {
     height: 25.45em;
-    background-image: url(https://raw.githubusercontent.com/PossiblyKris/DubtrackCSS/master/assets/bykris.png);
+    background-image: url(http://i.imgur.com/ohtTp6L.png);
 }
 #main_player .player_container .skip-el {
     background: #AA74FE;
@@ -207,6 +207,7 @@ button:hover {
 	color: #AA74FE;
 	font-family: 'Titillium Web', sans-serif;
 	font-weight: 900;
+	font-size: 18px;
 }
 #chat .chat-container .pusher-chat-widget-input button {
     color: #000;
