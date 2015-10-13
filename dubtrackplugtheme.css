@@ -466,7 +466,7 @@ ul.avatar-list li.downdub {
     background: #AA74FE !important;
 }
 #main_player .player_container .hideVideo-el {
-  background: #0277BD;
+  background: #AA74FE;
   left: calc(100% - 10em);
   top: calc(100% - 47px);
   margin: 0;
