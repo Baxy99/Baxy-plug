@@ -465,3 +465,16 @@ ul.avatar-list li.downdub {
 .requestControl .requestGo {
     background: #AA74FE !important;
 }
+#main_player .player_container .hideVideo-el {
+  background: #0277BD;
+  left: calc(100% - 10em);
+  top: calc(100% - 47px);
+  margin: 0;
+  cursor: pointer;
+  display: block;
+}
+#main_player .player_container:hover .hideVideo-el.show,
+#main_player .player_container:hover .videoquality-el.show,
+#main_player .player_container:hover .refresh-el.show {
+  display: block;
+}
