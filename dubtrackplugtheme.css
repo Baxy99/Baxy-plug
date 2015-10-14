@@ -143,7 +143,7 @@ a:hover, a:visited {
   display: block;
   height: 25.45em;
   position: relative;
-  background-image: url("http://i.imgur.com/8BDrqvZ.png");
+  background-image: url("http://i.imgur.com/uU3z6Ht.png");
   z-index: 11;
 }
 @media only screen and (min-width: 31.25em) {
@@ -243,7 +243,7 @@ a:hover, a:visited {
   text-transform: uppercase;
   left: 50%;
   width: 10em;
-  margin-left: -5em;
+  margin-left: -7em;
   text-align: center;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
