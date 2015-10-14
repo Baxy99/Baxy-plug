@@ -622,3 +622,10 @@ ul.avatar-list li.downdub {
 .requestControl .requestGo {
     background: #AA74FE !important;
 }
+#header-global:after {
+  clear: both;
+  position: absolute;
+  top: .6em;
+  left: 45%;
+  background: url("http://i.imgur.com/oEwUwv1.png") !important;
+}
