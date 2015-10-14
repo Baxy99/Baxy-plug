@@ -7,27 +7,8 @@
 */
 @import url(https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:900&subset=latin,latin-ext);
-#browser .sidebar #room-lock-queue {
-	    background: #AA74FE;
-}
-#browser .pause-queue-browser-bth {
-    	color: #AA74FE;
-}
-#browser .clear-queue-browser-bth, #browser .pause-queue-browser-bth {
-	outline: 2px solid #AA74FE;
-}
 #header-global h1 {
 	display: none;
-}
-#player-controller ul li.infoContainer .currentSong {
-	font-family: 'Lato', sans-serif;
-	font-size: 16px;
-}
-#chat .chat-container ul.chat-main li .activity-row .text {
-	font-family: 'Lato', sans-serif;
-}
-#chat .chat-container .pusher-chat-widget-input input {
-	font-family: 'Lato', sans-serif;
 }
 #main-loading {
     background: #AA74FE;
@@ -60,6 +41,10 @@ a:hover, a:visited {
 }
 
 /* Bottom Bar */
+#player-controller ul li.infoContainer .currentSong {
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+}
 #player-controller ul li a.playbtn:hover {
     background-color: #AA74FE !important;
 }
@@ -336,6 +321,12 @@ button:hover {
 }
 
 /* Chat box */
+#chat .chat-container ul.chat-main li .activity-row .text {
+	font-family: 'Lato', sans-serif;
+}
+#chat .chat-container .pusher-chat-widget-input input {
+	font-family: 'Lato', sans-serif;
+}
 #chat .chat_tools .room-user-counter {
     background: #AA74FE;
     color: #000;
@@ -473,6 +464,15 @@ ul.avatar-list li.downdub {
 }
 
 /* Playlist Menu */
+#browser .sidebar #room-lock-queue {
+	    background: #AA74FE;
+}
+#browser .pause-queue-browser-bth {
+    	color: #AA74FE;
+}
+#browser .clear-queue-browser-bth, #browser .pause-queue-browser-bth {
+	outline: 2px solid #AA74FE;
+}
 #browser .browser-content-header {
     color: #AA74FE;
     background: #202020;
@@ -506,6 +506,10 @@ ul.avatar-list li.downdub {
 }
 #browser .loading, #browser .clear-queue-browser-bth {
     background: #AA74FE;
+}
+#browser .content-videos ul.browserPlaylistItems>li.selected {
+	outline: 1px solid #AA74FE;
+    	border-bottom: 1px solid #AA74FE;
 }
 #browser .content-videos ul.browserPlaylistItems>li {
     border-bottom: 1px #202020 solid;
