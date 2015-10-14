@@ -625,7 +625,7 @@ ul.avatar-list li.downdub {
 #header-global:after {
   clear: both;
   position: absolute;
-  top: .6em;
-  left: 45%;
+  top: .2em;
+  left: 44%;
   content:url(http://i.imgur.com/oEwUwv1.png);
 }
