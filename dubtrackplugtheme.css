@@ -7,6 +7,12 @@
 */
 @import url(https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:900&subset=latin,latin-ext);
+#browser .sidebar #room-lock-queue {
+	    background: #AA74FE;
+}
+#browser .pause-queue-browser-bth {
+    	color: #AA74FE;
+}
 #header-global h1 {
 	display: none;
 }
