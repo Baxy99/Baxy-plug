@@ -324,6 +324,9 @@ button:hover {
 }
 
 /* Chat box */
+#chat {
+ background: rgba(17, 17, 17, 0.8);
+}
 #chat .chat-container ul.chat-main li:focus .chatDelete, #chat .chat-container ul.chat-main li:hover .chatDelete {
 	    color: #AA74FE !important;
 }
