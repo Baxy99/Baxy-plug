@@ -6,7 +6,7 @@
     ORIGINAL: https://github.com/sinfulBA/DubX-Script
 */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext);
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:900&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script&subset=latin,latin-ext);
 #roomFormUpdate .mid #progress .bar, #roomInfoModal .mid #progress .bar {
 	    background: #AA74FE;
 }
@@ -352,8 +352,7 @@ button:hover {
 }
 #chat .chat-container ul.chat-main li.chat-welcome-message {
 	color: #AA74FE;
-	font-family: 'Titillium Web', sans-serif;
-	font-weight: 900;
+	font-family: 'Kaushan Script', cursive;
 	font-size: 18px;
 }
 #chat .chat-container .pusher-chat-widget-input button {
