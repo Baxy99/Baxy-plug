@@ -321,6 +321,10 @@ button:hover {
 }
 
 /* Chat box */
+#chat .chat-container ul.chat-main li.chat-me-command-joined {
+	font-family: 'Open Sans', sans-serif;
+	font-size: .75em;
+}
 #chat .chat-container ul.chat-main li .activity-row .text {
 	font-family: 'Open Sans', sans-serif;
 }
