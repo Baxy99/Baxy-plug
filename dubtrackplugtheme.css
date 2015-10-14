@@ -13,6 +13,9 @@
 #browser .pause-queue-browser-bth {
     	color: #AA74FE;
 }
+#browser .clear-queue-browser-bth, #browser .pause-queue-browser-bth {
+	outline: 2px solid #AA74FE;
+}
 #header-global h1 {
 	display: none;
 }
