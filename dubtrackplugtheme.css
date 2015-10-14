@@ -627,5 +627,5 @@ ul.avatar-list li.downdub {
   position: absolute;
   top: .6em;
   left: 45%;
-  background: url("http://i.imgur.com/oEwUwv1.png") !important;
+  content:url(http://i.imgur.com/oEwUwv1.png);
 }
