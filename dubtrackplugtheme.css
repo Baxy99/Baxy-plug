@@ -7,6 +7,9 @@
 */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script&subset=latin,latin-ext);
+#profileSidebar, #profileMainSection .profileView, #profileMainSection .profileView .infoProfile {
+	background: rgba(17, 17, 17, 0.8);
+}
 #roomFormUpdate .mid #progress .bar, #roomInfoModal .mid #progress .bar {
 	    background: #AA74FE;
 }
