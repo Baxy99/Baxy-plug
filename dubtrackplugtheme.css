@@ -14,6 +14,9 @@
 #roomFormUpdate .mid #progress .bar, #roomInfoModal .mid #progress .bar {
 	    background: #AA74FE;
 }
+#roomFormUpdate .mid, #roomInfoModal .mid {
+    font-family: 'Open Sans', sans-serif;	
+}
 #header-global h1 {
 	display: none;
 }
