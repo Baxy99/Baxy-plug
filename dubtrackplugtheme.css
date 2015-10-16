@@ -466,6 +466,9 @@ ul.avatar-list li.downdub {
     color: #C42E3B;
 }
 /* Playlist Menu */
+#browser .pause-queue-browser-bth {
+    color: #AA74FE;
+}
  #browser .sidebar #room-lock-queue.locked {
     background: #AA74FE !important;
 }
