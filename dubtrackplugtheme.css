@@ -487,14 +487,14 @@ ul.avatar-list li.downdub {
 }
 
 /* Playlist Menu */
-#browser .sidebar #room-lock-queue {
-	    background: #AA74FE;
+#browser .sidebar #room-lock-queue.locked {
+	    background: #AA74FE !important;
 }
-#browser .pause-queue-browser-bth {
-    	color: #AA74FE;
+#browser .sidebar #room-lock-queue {
+	    background: #AA74FE !important;
 }
 #browser .clear-queue-browser-bth, #browser .pause-queue-browser-bth {
-	outline: 2px solid #AA74FE;
+	outline: #AA74FE !important;
 }
 #browser .browser-content-header {
     color: #AA74FE;
@@ -531,8 +531,8 @@ ul.avatar-list li.downdub {
     background: #AA74FE;
 }
 #browser .content-videos ul.browserPlaylistItems>li.selected {
-	outline: 1px solid #AA74FE;
-    	border-bottom: 1px solid #AA74FE;
+	outline: 1px solid #AA74FE !important;
+    	border-bottom: 1px solid #AA74FE !important;
 }
 #browser .content-videos ul.browserPlaylistItems>li {
     border-bottom: 1px #202020 solid;
