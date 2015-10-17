@@ -7,6 +7,61 @@
 */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script&subset=latin,latin-ext);
+/*coś głupiego*/
+@-webkit-keyframes tada {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  10%, 20% {
+    -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  }
+
+  30%, 50%, 70%, 90% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  }
+
+  40%, 60%, 80% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes tada {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  10%, 20% {
+    -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  }
+
+  30%, 50%, 70%, 90% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  }
+
+  40%, 60%, 80% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+/*coś mądrego*/
  #chat .chat-container .pusher-chat-widget-input, #chat .chat_tools, #profileSidebar, #profileMainSection .profileView, #profileMainSection .profileView .infoProfile, #profileMainSection .profileView .contentMainProfile .contentTab.active {
     background: rgba(17, 17, 17, 0.8);
 }
@@ -351,6 +406,10 @@ button:hover {
     font-family:'Kaushan Script', cursive;
     font-size: 18px;
 }
+#chat .chat-container ul.chat-main li.chat-welcome-message, #chat .chat-container ul.chat-main li.chat-welcome-message:hover {
+ -webkit-animation-name: tada;
+  animation-name: tada;
+  }
 #chat .chat-container .pusher-chat-widget-input button {
     color: #000;
     background: #AA74FE;
