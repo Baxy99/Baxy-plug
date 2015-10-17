@@ -413,6 +413,9 @@ ul.avatar-list li.mod:after, ul.avatar-list li.co-owner:after, ul.avatar-list li
     opacity: 0.95;
     color: #AA74FE;
 }
+ul.avatar-list li.co-owner:after, ul.avatar-list li.creator:after, ul.avatar-list li.admin:after {
+    text-shadow: 0 0 10px #00FFFF;
+}
 ul.avatar-list li.updub {
     border: 1px solid #90AD2F;
 }
