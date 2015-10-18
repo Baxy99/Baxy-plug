@@ -47,7 +47,10 @@ a:hover, a:visited {
     background: #AA74FE;
 }
 /* Bottom Bar */
- #player-controller ul li.infoContainer .currentSong {
+#player-controller ul li a span {
+    transition-duration: 0.5s;
+}
+#player-controller ul li.infoContainer .currentSong {
     font-family:'Open Sans', sans-serif;
     font-size: 16px;
 }
