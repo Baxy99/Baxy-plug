@@ -620,3 +620,20 @@ ul.avatar-list li.downdub {
     left: 44%;
     content:url("http://i.imgur.com/oEwUwv1.png");
 }
+/*Malo istotne rzeczy kompleksy wyzszosci te klimaty. Może kiedys Dis sie dowie o tym Dubtracku jak ktos (Suku) mu powie*/
+#chat .chat-container ul.chat-main li.user-56001d40d2972003005ab1f9 .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-56001d40d2972003005ab1f9 .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-56001d40d2972003005ab1f9 .activity-row .text p a.username:visited
+{
+    text-shadow: 0 0 10px #00FFFF;
+}
+#chat li.user-56001d40d2972003005ab1f9 p a.username::before
+{
+    content:       "Mod";
+    font-size:     .7em;
+    background:    darkmagenta;
+    margin-right:  3px;
+    color:         white;
+    text-align:    center;
+    border-radius: 40%;
+    padding:       0px 4px;
+    box-shadow:    0 0 5px #333333;
+}
