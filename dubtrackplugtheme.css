@@ -627,7 +627,7 @@ ul.avatar-list li.downdub {
 }
 #chat li.user-56001d40d2972003005ab1f9 p a.username::before
 {
-    content:       "Mod";
+    content:       "Host";
     font-size:     .7em;
     background:    darkmagenta;
     margin-right:  3px;
