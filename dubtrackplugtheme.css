@@ -627,13 +627,8 @@ ul.avatar-list li.downdub {
 }
 #chat li.user-56001d40d2972003005ab1f9 p a.username::before
 {
-    content:       "Host";
-    font-size:     .7em;
-    background:    darkmagenta;
+    content:       url("https://cdn.radiant.dj/rcs/icons/radiant/host.png");
     margin-right:  3px;
-    color:         white;
-    text-align:    center;
     border-radius: 40%;
     padding:       0px 4px;
-    box-shadow:    0 0 5px #333333;
 }
