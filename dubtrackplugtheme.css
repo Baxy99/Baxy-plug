@@ -16,6 +16,9 @@
 #roomFormUpdate .mid, #roomInfoModal .mid {
     font-family:'Open Sans', sans-serif;
 }
+#header-global {
+    background-color: rgba(0, 0, 0, 0.8);
+}
 #header-global h1 {
     display: none;
 }
