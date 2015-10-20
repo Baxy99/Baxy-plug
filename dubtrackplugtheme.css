@@ -152,7 +152,7 @@ a:hover, a:visited {
     display: block;
     height: 25.45em;
     position: relative;
-    background-image: url("http://i.imgur.com/uU3z6Ht.png");
+    background-image: url("http://i.imgur.com/MYSUSz0.png");
     z-index: 11;
 }
 @media only screen and (min-width: 31.25em) {
@@ -646,7 +646,13 @@ ul.avatar-list li.downdub {
 }
 #chat li.user-56001d40d2972003005ab1f9 p a.username::before
 {
-    content:       url("http://i.imgur.com/xdBV63C.png");
-    margin-right:  2px;
+    content:       "Owner";
+    font-size:     .7em;
+    background:    darkmagenta;
+    margin-right:  3px;
+    color:         white;
+    text-align:    center;
+    border-radius: 40%;
     padding:       0px 4px;
+    box-shadow:    0 0 5px #333333;
 }
