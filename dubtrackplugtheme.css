@@ -437,6 +437,10 @@ ul.avatar-list li.mod:after, ul.avatar-list li.co-owner:after, ul.avatar-list li
 }
 ul.avatar-list li.co-owner:after, ul.avatar-list li.creator:after, ul.avatar-list li.admin:after {
     text-shadow: 0 0 10px #00FFFF;
+    font-family:'Kaushan Script', cursive;
+}
+ul.avatar-list li.manager:after {
+    text-shadow: 0 0 10px #00FFFF;
 }
 ul.avatar-list li.updub {
     border: 1px solid #90AD2F;
@@ -643,16 +647,5 @@ ul.avatar-list li.downdub {
 #chat .chat-container ul.chat-main li.user-56001d40d2972003005ab1f9 .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-56001d40d2972003005ab1f9 .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-56001d40d2972003005ab1f9 .activity-row .text p a.username:visited
 {
     text-shadow: 0 0 10px #00FFFF;
-}
-#chat li.user-56001d40d2972003005ab1f9 p a.username::before
-{
-    content:       "Owner";
-    font-size:     .7em;
-    background:    darkmagenta;
-    margin-right:  3px;
-    color:         white;
-    text-align:    center;
-    border-radius: 40%;
-    padding:       0px 4px;
-    box-shadow:    0 0 5px #333333;
+    font-family:'Kaushan Script', cursive;
 }
