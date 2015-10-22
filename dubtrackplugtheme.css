@@ -127,7 +127,7 @@ a:hover, a:visited {
     font-weight: bold;
 }
 /* Video box */
- main_player .player_container .playerElement.soundcloud img {
+#main_player .player_container .playerElement.soundcloud img {
     content: url("http://i.imgur.com/r1d7vQG.png") !important;
 }
 #main-room .left_section {
