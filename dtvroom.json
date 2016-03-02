@@ -1,6 +1,6 @@
 {
     "room": "DisStream",
-        "author": "- ๔ן ฬ๏гรt υ∂уя קl -",
+        "author": "WorstUdyrDE",
         "css": "https://rawgit.com/WorstUdyrDE/plug/master/style.css",
         "rules": {
         "allowAutorespond": true,
@@ -19,7 +19,7 @@
             "cohost": null,
             "manager": null,
             "bouncer": null,
-            "rdj": "#5DB4FF",
+            "rdj": null,
             "subscriber": null,
             "friend": null,
             "user": null
@@ -33,7 +33,7 @@
             "cohost": "http://i.imgur.com/xdBV63C.png",
             "manager": "http://i.imgur.com/xdBV63C.png",
             "bouncer": null,
-            "rdj": "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+            "rdj": null,
             "subscriber": null
     },
         "autocomplete": [],
