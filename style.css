@@ -209,19 +209,21 @@
     /*padding-left: 25px;*/
     border-left: #7681FF 2px solid;
 }
-/*#chat .emote .from {
-    color: #ac76ff !important;
+#chat .emote .from {
+  color: #ac76ff!important
 }
+
 #chat .emote {
-    background-color: rgba(255, 217, 0, 0.12) !important;
+  border-left: rgba(174, 69, 189, 1) 3px solid!important;
+  background-color: rgba(76, 93, 119, .22)!important
 }
-#chat-messages .emote .icon {
-    /*left: 4px;*/
-}
+
+#chat-messages .emote .icon {}
+
 #chat .emote .text {
-    font-style: normal;
-    font-weight: bold;
-    color: #FFD900; */
+  font-style: normal;
+  font-weight: bold;
+  color: #ac76ff
 }
 #footer {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0, rgba(0, 0, 0, 0.75) 100%);
