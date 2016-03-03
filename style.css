@@ -209,7 +209,7 @@
     /*padding-left: 25px;*/
     border-left: #7681FF 2px solid;
 }
-#chat .emote .from {
+/*#chat .emote .from {
     color: #ac76ff !important;
 }
 #chat .emote {
@@ -218,7 +218,7 @@
 #chat-messages .emote .icon {
     /*left: 4px;*/
 }
-/*#chat .emote .text {
+#chat .emote .text {
     font-style: normal;
     font-weight: bold;
     color: #FFD900; */
