@@ -375,8 +375,7 @@
 .message.role-manager,
 .emote.role-manager
 {
-    border-left:  #9E6DEA 2px dotted;
-    border-right: #9E6DEA 2px dotted;
+    border-left:  #9E6DEA 3px dotted;
 }
 
 .message.role-manager:hover,
