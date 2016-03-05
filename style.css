@@ -96,7 +96,7 @@
 }
 #chat .mention {
     font-weight: 700;
-    border-left: #7681FF 2px solid;
+    border-left: #9E6DEA 3px solid;
 }
 #chat .emote .from {
   color: #ac76ff!important
@@ -277,8 +277,8 @@
 
 .message.role-host.emote.role-host
 {
-    border-left:  #2582da 2px dotted;
-    border-right: #2582da 2px dotted;
+    border-left:  #2582da 3px dotted;
+    border-right: #2582da 3px dotted;
 }
 
 .message.role-host:hover,
