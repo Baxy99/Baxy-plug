@@ -1,7 +1,7 @@
 {
-    "room": "DisStream",
-        "author": "WorstUdyrDE",
-        "css": "https://rawgit.com/WorstUdyrDE/plug/master/style.css",
+    "room": "Baxy",
+        "author": "Baxy",
+        "css": "style",
         "rules": {
         "allowAutorespond": true,
             "allowAutowoot": true,
