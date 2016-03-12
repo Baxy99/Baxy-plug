@@ -202,7 +202,7 @@
     background: linear-gradient(to top, rgba(0, 0, 0, 0.247059) 0px, rgba(0, 0, 0, 0.74902) 100%);
 }
 #chat .cm .icon-chat-manager + .un, #user-lists .group.manager ~ .user, #user-lists .list.room .user .icon-chat-manager + .name, #user-rollover.is-staff .info .role .icon-chat-manager + span, #dialog-user-role .role-menu .selected .icon-chat-manager + span, #dialog-user-role .role-menu .menu .manager span {
-    text-shadow: 0 0 10px #00FFFF;
+    text-shadow: 0 0 10px #00FFFF !important;
 }
 #footer .bar-button .section span {
     text-shadow: rgba(255, 255, 255, 0.498039) 0px 0px 15px, rgba(255, 255, 255, 0.498039) 0px 0px 10px;
