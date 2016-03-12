@@ -1,7 +1,7 @@
 {
     "room": "Baxy",
         "author": "Baxy",
-        "css": "style",
+        "css": "https://cdn.rawgit.com/baxyy/plug/master/style.css",
         "rules": {
         "allowAutorespond": true,
             "allowAutowoot": true,
