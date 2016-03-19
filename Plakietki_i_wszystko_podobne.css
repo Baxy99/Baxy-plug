@@ -86,13 +86,6 @@
     float: left;
     margin: 0px 3px 0px 0px;
 }
- /*DignitaSLoL*/
- .id-13440286 > .badge-box > i.bdg {
-    background-image: url("http://imagehost4.online-image-editor.com/oie_upload/images/11165054kLb9l8/111648434Quk2jB7.gif");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
- }
 /*serce obok nicku*/
  .id-10764385 > .msg > .from:before, .id-10607990 > .msg > .from:before, .id-6315115 > .msg > .from:before, .id-5421389 > .msg > .from:before, .id-10828076 > .msg > .from:before {
     content: url("http://i.imgur.com/Ev9MdsC.png") !important;
