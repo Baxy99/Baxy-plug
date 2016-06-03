@@ -2,9 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,latin-ext); /* fix polskich znaków*/
 @import url(https://rawgit.com/WorstUdyrDE/a_DisStream_community/master/Plakietki_i_wszystko_podobne.css);
 
-#chat .cm .icon-chat-manager + .un, #user-lists .group.manager ~ .user, #user-lists .list.room .user .icon-chat-manager + .name, #user-rollover.is-staff .info .role .icon-chat-manager + span, #dialog-user-role .role-menu .selected .icon-chat-manager + span, #dialog-user-role .role-menu .menu .manager span {
+/* #chat .cm .icon-chat-manager + .un, #user-lists .group.manager ~ .user, #user-lists .list.room .user .icon-chat-manager + .name, #user-rollover.is-staff .info .role .icon-chat-manager + span, #dialog-user-role .role-menu .selected .icon-chat-manager + span, #dialog-user-role .role-menu .menu .manager span {
     text-shadow: 0 0 10px #00FFFF !important;
-} /*działaj ffs*/
+} działaj ffs*/
 
 /* Woot Grab Meh ikony */
  #woot i.icon {
