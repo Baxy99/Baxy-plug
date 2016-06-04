@@ -1,73 +1,132 @@
 /* amoniak */
- .id-10542387 > .badge-box > i.bdg {
+.id-10542387 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/yawBN1j.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
+#user-rollover.id-10542387 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/yawBN1j.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 /* KamilSlimak12 */
- .id-9092608 > .badge-box > i.bdg {
+.id-9092608 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/pUYGygq.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
-/* Milo Poznac */
- .id-6309639 > .badge-box > i.bdg {
-    background-image: url("http://i.imgur.com/SqFKQCQ.png");
-    background-size: cover;
-    background-repeat: no-repeat;
+#user-rollover.id-9092608 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/pUYGygq.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
     background-position: center center;
 }
+
 /*Sisen */
- .id-5421389 > .badge-box > i.bdg {
+.id-5421389 > .badge-box > i.bdg {
     background-image: url("https://s-media-cache-ak0.pinimg.com/custom_covers/30x30/572590608812788331_1407623061.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
+#user-rollover.id-5421389 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("https://s-media-cache-ak0.pinimg.com/custom_covers/30x30/572590608812788331_1407623061.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 /* Sksawery */
- .id-6390265 > .badge-box > i.bdg {
+.id-6390265 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/Q0UDyNL.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
+#user-rollover.id-6390265 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/Q0UDyNL.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 /* Wata  */
- .id-6315115 > .badge-box > i.bdg {
+.id-6315115 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/EdQBfwL.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
+#user-rollover.id-6315115 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/EdQBfwL.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 /* Dawid4045  */
- .id-8502399 > .badge-box > i.bdg {
+.id-8502399 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/5SN6owa.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
+#user-rollover.id-8502399 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/5SN6owa.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 /* GreenaSnow */
- .id-10607990 > .badge-box > i.bdg {
+.id-10607990 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/1wo8hmU.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
+#user-rollover.id-10607990 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/1wo8hmU.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 /* Nevcio */
- .id-6615469 > .badge-box > i.bdg {
+.id-6615469 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/ThxmPfE.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
-/* Jukerr */
- .id-7887610 > .badge-box > i.bdg {
-    background-image: url("http://i.imgur.com/KsLeJbN.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+#user-rollover.id-6615469 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/ThxmPfE.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
     background-position: center center;
 }
+
+
 /* Wumekk */
  .id-5390290 > .msg > .from:before {
     content: url("http://puu.sh/jLKQx/bcbca1e608.png") !important;
@@ -81,6 +140,15 @@
     background-position: center center;
     height: 45px;
 }
+#user-rollover.id-5390290 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://puu.sh/peB60/9455b8dca8.gif");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
 /*Hasztagg*/
  .id-6598771 > .msg > .from:before {
     content: url("http://i.imgur.com/bZ37wsM.png") !important;
@@ -98,15 +166,25 @@
 {
     background: url("http://i.imgur.com/xEQvJUh.png") !important;
 }
- .id-7049112 > .msg > .from > i.icon-chat-host {
+#chat-messages .id-7049112 
+{
+	background: rgba(34, 23, 54, 0.33) !important;
+        border-left: 3px solid #8230FF;
+	
+}
+
+[data-cid^="7049112"] .msg .from .un 
+{
+        color: #ac76ff !important;
+}
+
+.id-7049112 > .msg > .from > i.icon-chat-host,
+#user-lists .list.room .user.id-7049112 .icon-chat-cohost,
+#waitlist .list .user.id-7049112 .name .icon-chat-cohost
+{
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
 }
-#user-lists .list.room .user.id-7049112 .icon-chat-cohost {
-    background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
-}
-#waitlist .list .user.id-7049112 .name .icon-chat-cohost {
-    background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
-}
+
 .id-7049112 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/o7fbmHg.png");
     background-size: cover;
@@ -120,15 +198,4 @@
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
-}
-#chat-messages .id-7049112 
-{
-	background: rgba(34, 23, 54, 0.33) !important;
-        border-left: 3px solid #8230FF;
-	
-}
-
-[data-cid^="7049112"] .msg .from .un 
-{
-        color: #ac76ff !important;
 }
