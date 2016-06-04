@@ -1,6 +1,6 @@
 {
     "room": "DisStream",
-        "author": "WorstUdyrDE",
+        "author": "Mikey Wazowsky",
         "css": "https://rawgit.com/WorstUdyrDE/a_DisStream_community/master/style.css",
         "rules": {
         "allowAutorespond": true,
@@ -9,7 +9,7 @@
             "allowAutograb": true,
             "allowSmartVote": true,
             "allowEmotes": true,
-            "allowShowingMehs": true,
+            "allowShowingMehs": false,
             "forceSmartVote": false
     },
         "ccc": {
