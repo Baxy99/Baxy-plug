@@ -290,3 +290,8 @@
         border-left: 3px solid #8230FF;
 	
 }
+.msg .from .icon-chat-manager
+{
+	margin-right: 6px !important; 
+ 	margin-left: 4px !important;
+}
