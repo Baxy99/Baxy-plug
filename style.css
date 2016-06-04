@@ -284,6 +284,10 @@
     border-left-style:  solid;
     border-right-style: solid;
 }
+.icon-chat-manager
+{
+	background: url("http://i.imgur.com/BmIikOO.png") !important;
+}
 .msg .from .icon-chat-manager
 {
 	margin-right: 6px !important; 
