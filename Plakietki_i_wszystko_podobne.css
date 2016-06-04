@@ -117,3 +117,14 @@
     background-repeat:   no-repeat;
     background-position: center center;
 }
+#chat-messages .id-7049112 
+{
+	background: rgba(34, 23, 54, 0.33) !important;
+        border-left: 3px solid #8230FF;
+	
+}
+
+[data-cid^="7049112"] .msg .from .un 
+{
+        color: #ac76ff !important;
+}
