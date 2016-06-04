@@ -294,6 +294,10 @@
  	margin-left: 4px !important;
 }
 
+#user-rollover .info .role i.icon-chat-dj
+{
+	background: url("http://i.imgur.com/XuPWtQ2.png");
+}
 
 /* User Rollover from https://plug.dj/nightcore-331 */
 #user-rollover
