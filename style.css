@@ -291,6 +291,7 @@
 }
 
 
+/* User Rollover from https://plug.dj/nightcore-331 */
 #user-rollover
 {
         opacity:                0.95;
@@ -324,4 +325,46 @@
         -moz-transition:        all 0.3s linear;
         -o-transition:          all 0.3s linear;
         transition:             all 0.3s linear;
+}
+
+/* OPTIONAL
+#user-rollover:hover > .info,
+#user-rollover:hover > .meta, */
+#user-rollover:hover > .actions .friend,
+#user-rollover:hover > .actions .gift,
+#user-rollover:hover > .actions .ignore,
+#user-rollover:hover > .actions .mention,
+#user-rollover:hover > .actions .mod-ban,
+#user-rollover:hover > .actions .mod-dj,
+#user-rollover:hover > .actions .mod-mute,
+#user-rollover:hover > .actions .mod-staff,
+#user-rollover:hover > .actions .skip
+{
+    /* IF FLICKER ISSUES ARE FIXED, RAISE TO 0.5 */
+        opacity:                0.3 !important;
+}
+
+#user-rollover .actions .friend:hover,
+#user-rollover .actions .gift:hover,
+#user-rollover .actions .ignore:hover,
+#user-rollover .actions .mention:hover,
+#user-rollover .actions .mod-ban:hover,
+#user-rollover .actions .mod-dj:hover,
+#user-rollover .actions .mod-mute:hover,
+#user-rollover .actions .mod-staff:hover,
+#user-rollover .actions .skip:hover
+{
+        opacity:                1 !important;
+        
+        /* FLICKER ISSUES !! Disabled until they are fixed.
+        -webkit-box-shadow:     inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important;
+        -moz-box-shadow:        inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important;
+        -o-box-shadow:          inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important;
+        box-shadow:             inset 0 -3px 0 0 rgba(84, 123, 201, 1) !important; */
+}
+
+#user-rollover .info:hover,
+#user-rollover .meta:hover
+{
+         opacity:               1 !important;
 }
