@@ -10,7 +10,7 @@
 #user-rollover.is-staff .info .role .icon-chat-manager + span,
 #dialog-user-role .role-menu .selected .icon-chat-manager + span,
 #dialog-user-role .role-menu .menu .manager span{
-    text-shadow: 0 0 10px #00FFFF; /*!important;*/
+    text-shadow: 0 0 10px #00FFFF !important;
 }
 
 /* Woot Grab Meh ikony */
