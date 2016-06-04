@@ -94,6 +94,10 @@
     margin: 1px 3px 0px 0px;
 }
 /* DTVbot */
+#user-rollover.id-7049112  i.icon-chat-host
+{
+    background: url("http://i.imgur.com/xEQvJUh.png") !important;
+}
  .id-7049112 > .msg > .from > i.icon-chat-host {
     background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
 }
