@@ -290,8 +290,15 @@
         border-left: 3px solid #8230FF;
 	
 }
+
+[data-cid^="7049112"] .msg .from .un 
+{
+        color: #ac76ff !important;
+}
+
 .msg .from .icon-chat-manager
 {
 	margin-right: 6px !important; 
  	margin-left: 4px !important;
 }
+
