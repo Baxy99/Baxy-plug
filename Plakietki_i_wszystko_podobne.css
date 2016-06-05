@@ -13,6 +13,21 @@
     background-repeat:   no-repeat;
     background-position: center center;
 }
+/*Miło Poznać */
+.id-6309639 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/YaDYXjt.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#user-rollover.id-6309639 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/YaDYXjt.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
 
 /* KamilSlimak12 */
 .id-9092608 > .badge-box > i.bdg {
