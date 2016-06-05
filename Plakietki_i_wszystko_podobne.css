@@ -2,7 +2,7 @@
 .id-10542387 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/yawBN1j.gif");
     background-size: cover;
-    background-repeat: no-repeat;m
+    background-repeat: no-repeat;
     background-position: center center;
 }
 #user-rollover.id-10542387 .badge-box > i.bdg
@@ -124,6 +124,25 @@
     background-position: center center;
 }
 [data-cid^="13065138"].cm .msg .from .un, .role-manager.id-13065138 .name
+{
+        color: rgb(255, 0, 191) !important; 
+        text-shadow: 0px 0px 10px rgb(234, 0, 255);
+}
+.id-13654673 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/Da1UQXg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#user-rollover.id-13654673 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/Da1UQXg.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+[data-cid^="13654673"].cm .msg .from .un, .role-bouncer.id-13654673 .name
 {
         color: rgb(255, 0, 191) !important; 
         text-shadow: 0px 0px 10px rgb(234, 0, 255);
