@@ -47,7 +47,7 @@
 
 /*Sisen */
 .id-5421389 > .badge-box > i.bdg {
-    background-image: url("https://s-media-cache-ak0.pinimg.com/custom_covers/30x30/572590608812788331_1407623061.jpg");
+    background-image: url("http://i.imgur.com/wO30awO.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -55,7 +55,7 @@
 #user-rollover.id-5421389 .badge-box > i.bdg
 {
     border-radius:       6px;
-    background-image:    url("https://s-media-cache-ak0.pinimg.com/custom_covers/30x30/572590608812788331_1407623061.jpg");
+    background-image:    url("http://i.imgur.com/wO30awO.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
@@ -172,7 +172,6 @@
 .id-10764385 > .msg > .from:before, 
 .id-10607990 > .msg > .from:before, 
 .id-6315115 > .msg > .from:before, 
-.id-5421389 > .msg > .from:before, 
 .id-10828076 > .msg > .from:before, 
 .id-8817701 > .msg > .from:before
 {
