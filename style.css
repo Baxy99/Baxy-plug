@@ -260,6 +260,10 @@
 {
     border-left:  #9E6DEA 2px dotted;
 }
+.icon-chat-dj + span 
+{ 
+	color: #547bc9 !important; 
+}
 
 .message.role-manager:hover,
 .emote.role-manager:hover
