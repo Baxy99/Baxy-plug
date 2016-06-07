@@ -254,7 +254,9 @@
 .loading-box .spinner {
     margin-top: 23px !Important;
 }
-
+.icon-chat-host > span {
+    color: #2582da !important;
+}
 .message.role-manager,
 .emote.role-manager
 {
@@ -297,6 +299,10 @@
 #user-rollover .info .role i.icon-chat-dj
 {
 	background: url("http://i.imgur.com/XuPWtQ2.png");
+}
+#user-rollover .info .role i.icon-chat-host
+{
+	background: url("http://i.imgur.com/MDRDE6p.png");
 }
 
 /* User Rollover from https://plug.dj/nightcore-331 */
