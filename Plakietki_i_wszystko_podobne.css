@@ -174,7 +174,8 @@
 .id-6315115 > .msg > .from:before, 
 .id-10828076 > .msg > .from:before, 
 .id-8817701 > .msg > .from:before,
-.id-13955057 > .msg > .from:before
+.id-13955057 > .msg > .from:before,
+.id-6462179 > .msg > .from:before
 {
     content: url("http://i.imgur.com/Ev9MdsC.png") !important;
     float: left;
