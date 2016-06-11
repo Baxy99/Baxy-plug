@@ -219,14 +219,14 @@
     background-position: center center;
 }
 
-/*Cypis to krul  */
- .id-13450003 > .badge-box > i.bdg {
+/*Dla tych co chcieli się wyróżniać 
+ .id-XXXX > .badge-box > i.bdg {
      background-image: url("http://i.imgur.com/Da1UQXg.png");
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center center;
  }
- #user-rollover.id-13450003 .badge-box > i.bdg
+ #user-rollover.id-XXXX .badge-box > i.bdg
  {
      border-radius:       6px;
      background-image:    url("http://i.imgur.com/Da1UQXg.png");
@@ -234,16 +234,16 @@
      background-repeat:   no-repeat;
      background-position: center center;
  }
-.id-13450003 > .msg > .from:before
+.id-XXXX > .msg > .from:before
 {
     content: url("http://i.imgur.com/Ev9MdsC.png") !important;
     float: left;
     margin: 1px 3px 0px 0px;
 }
 
-[data-cid^="13450003"].cm .msg .from .un,  .role-rdj.id-13450003 .name
+[data-cid^="XXXXX"].cm .msg .from .un,  .role-X.id-XXXX .name
  {
          color: rgb(255, 0, 191) !important; 
          text-shadow: 0px 0px 10px rgb(234, 0, 255);
- }
+ } */
  /**************************************************************************************************************************/
