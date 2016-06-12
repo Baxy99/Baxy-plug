@@ -257,8 +257,10 @@
 .icon-chat-host > span {
     color: #2582da !important;
 }
-.message.role-manager,
-.emote.role-manager
+.message.role-host,
+.emote.role-host,
+.message.role-cohost,
+.emote.role-cohost
 {
     border-left:  #9E6DEA 2px dotted;
 }
@@ -267,8 +269,10 @@
 	color: #547bc9 !important; 
 }
 
-.message.role-manager:hover,
-.emote.role-manager:hover
+.message.role-host:hover,
+.emote.role-host:hover,
+.message.role-cohost:hover,
+.emote.role-cohost:hover
 {
     border-left-style:  solid;
     border-right-style: solid;
