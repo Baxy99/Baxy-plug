@@ -1,6 +1,6 @@
 {
-    "room": "DisStream",
-        "author": "Mikey Wazowsky",
+    "room": "Baxyx",
+        "author": "Baxy",
         "css": "https://rawgit.com/WorstUdyrDE/a_DisStream_community/master/style.css",
         "rules": {
         "allowAutorespond": true,
@@ -25,11 +25,11 @@
             "user": null
     },
         "images": {
-        "background": "http://i.imgur.com/HG8mqaM.png",
+        "background": "http://i.imgur.com/wLdQdFP.gif",
             "playback": null,
             "admin": null,
             "ambassador": null,
-            "host": "http://i.imgur.com/MDRDE6p.png",
+            "host": "http://i.imgur.com/jENF0px.png",
             "cohost": "http://i.imgur.com/BmIikOO.png",
             "manager": "http://i.imgur.com/BmIikOO.png",
             "bouncer": null,
