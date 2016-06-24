@@ -28,4 +28,19 @@
     background-repeat:   no-repeat;
     background-position: center center;
 }
+/* Baxy99 */
+.id-7573750 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/sJa9VAT.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#user-rollover.id-7573750 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/sJa9VAT.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
 
