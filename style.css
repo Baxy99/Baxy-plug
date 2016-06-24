@@ -243,7 +243,7 @@
     display: none !Important;
 }
 .loading-box .logo {
-    background-image: url(http://i.imgur.com/hdde3Ee.png) !important;
+    background-image: url !important;
     background-size: 640px 362px !Important;
     height: 362px !Important;
 }
