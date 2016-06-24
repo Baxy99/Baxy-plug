@@ -242,11 +242,11 @@
 .loading-box .connecting {
     display: none !Important;
 }
-.loading-box .logo {
+/*.loading-box .logo {
     background-image: url !important;
     background-size: 640px 362px !Important;
     height: 362px !Important;
-}
+} */
 .loading-box .content {
     top: -12px !important;
     height: 413px !Important;
