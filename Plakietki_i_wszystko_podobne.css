@@ -1,6 +1,6 @@
 /* Kacperek */
 .id-5919478 > .badge-box > i.bdg {
-    background-image: url("http://i.imgur.com/O6uFSMU.gif");
+    background-image: url("http://i.imgur.com/O6uFSMU.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -8,7 +8,22 @@
 #user-rollover.id-9346793 .badge-box > i.bdg
 {
     border-radius:       6px;
-    background-image:    url("http://i.imgur.com/O6uFSMU.gif");
+    background-image:    url("http://i.imgur.com/O6uFSMU.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+/* Vakosss */
+.id- > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/qOP2EUr.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#user-rollover.id- .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/qOP2EUr.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
